@@ -3,6 +3,7 @@
 
 ### featureit.aggregate_numerical_features()
 
+|             |                     |
 |-------------|---------------------|
 | Parameters: | This is a parameter |
 |-------------|---------------------|
