@@ -1,4 +1,4 @@
-## FeatureIt Documentation
+## Documentation
 
 
 ### featureit.aggregate_numerical_features()
