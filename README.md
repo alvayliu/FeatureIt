@@ -1,7 +1,9 @@
 ## Documentation
 
+  
+  
 
-### featureit.aggregate_numerical_features()
+### aggregate_numerical_features()
 
 **Parameters:**
 
@@ -17,7 +19,7 @@
 Example:
 ```
 
-### featureit.aggregate_categorical_features()
+### aggregate_categorical_features()
 
 **Parameters:**
 
