@@ -6,7 +6,6 @@
 |             |                     |
 |-------------|---------------------|
 | Parameters: | This is a parameter |
-|-------------|---------------------|
 | Returns:    | This is a return    |
 
 
