@@ -3,13 +3,15 @@
 
 ### featureit.aggregate_numerical_features()
 
-| | |
-|-------------|---------------------|
-| Parameters: | This is a parameter |
-| Returns:    | This is a return    |
-|-------------|---------------------|
+Parameters
 
+> `df`: dataset to join with
 
+> `attr`: attribute to aggregate on
+
+Returns:
+
+> `agg_df`: the aggregated dataframe with the aggregated values mean, max, min, median, count, sum for each unique attribute.
 
 ```markdown
 Syntax highlighted code block
