@@ -1,8 +1,6 @@
-## Documentation
+# Documentation
 
   
-  
-
 ### aggregate_numerical_features()
 
 **Parameters:**
@@ -51,3 +49,6 @@ Example:
 Example:
 ```
 
+# Install
+
+`git clone 
