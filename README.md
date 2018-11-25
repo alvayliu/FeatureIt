@@ -7,13 +7,13 @@
 
 **Parameters:**
 
-> `df`: dataset to join with
+> **df**: dataset to join with
 
-> `attr`: attribute to aggregate on
+> **attr**: attribute to aggregate on
 
 **Returns:**
 
-> `agg_df`: the aggregated dataframe with the aggregated values mean, max, min, median, count, sum for each unique attribute.
+> **agg_df**: the aggregated dataframe with the aggregated values mean, max, min, median, count, sum for each unique attribute.
 
 ```
 Example:
@@ -23,14 +23,31 @@ Example:
 
 **Parameters:**
 
-> `df`: dataset to join with
+> **df**: dataset to join with
 
-> `attr`: attribute to aggregate on
+> **attr**: attribute to aggregate on
 
 **Returns:**
 
-> `agg_df`: the aggregated dataframe with the aggregated values mean, max, min, median, count, sum for each unique attribute.
+> **agg_df**: the aggregated dataframe with the aggregated values mean, max, min, median, count, sum for each unique attribute.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+Example:
+```
 
+
+### check_missing_data()
+
+**Parameters:**
+
+> **df**: dataset to check
+
+
+**Returns:**
+
+> **missing_df**: a dataframe with two columns, number of missing data in each feature and percentage missing per feature.
+
+```
+Example:
+```
 
