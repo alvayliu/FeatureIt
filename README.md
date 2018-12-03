@@ -59,4 +59,11 @@ Example:
 
 # Install
 
-`git clone
+To install, download the featureit.py file, place it in your project folder and import the functions to your python project.
+The Pandas library needs to be installed.
+
+```
+import featureit as fi
+
+agg_df = fi.aggregate_numerical_features(df, attr)
+```
